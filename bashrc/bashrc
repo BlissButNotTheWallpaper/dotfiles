@@ -1,7 +1,8 @@
 ########## aliases ########################
 
-alias echo='echo -n'
 alias acc='cd ~/Desktop/accounts/'
+alias proj='cd ~/Desktop/projects/'
+alias pawn='cd ~/Desktop/pawner/'
 alias thm='cd ~/Desktop/thm/'
 alias tools='cd /opt/tools/'
 alias t='tmux'
