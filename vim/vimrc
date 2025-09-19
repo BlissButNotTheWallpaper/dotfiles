@@ -1,4 +1,6 @@
-inoremap jj <Esc>
+
+set background=dark
+inoremap jk <Esc>
 set number
 set relativenumber
 set termguicolors
